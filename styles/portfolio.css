@@ -146,3 +146,23 @@ main{
     font-weight:700;
     
  }
+
+ /* What i do section style */
+ #what-i-do-description{
+    padding: 10px 150px;
+    color:rgb(101, 99, 99);
+ }
+
+ .skills-container{
+    display: flex;
+    gap: 5px;
+ }
+ .skill-title{
+    font-size: 15px;
+    font-weight: 700;
+ }
+
+ .skill-description{
+    color:rgb(101, 99, 99);
+    font-size:13px;
+ }
